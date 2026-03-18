@@ -1,20 +1,7 @@
 <!DOCTYPE html>
 <html lang="hu">
-<head>
-    <meta charset="UTF-8">
-    <title>PilotVideo Projekt – README</title>
-    <style>
-        body {font-family: Arial, sans-serif; line-height: 1.6; margin: 2rem;}
-        h1, h2 {color: #2c3e50;}
-        table {border-collapse: collapse; width: 100%; margin-bottom: 1rem;}
-        th, td {border: 1px solid #ccc; padding: 0.5rem; text-align: left;}
-        pre {background: #f8f8f8; padding: 0.75rem; overflow-x: auto;}
-        a {color: #2980b9;}
-    </style>
-</head>
-<body>
 
-<h1>PowerShell Projekt – README</h1>
+<h1>PilotVideo Projekt – README</h1>
 
 <h2>Felépítés</h2>
 
