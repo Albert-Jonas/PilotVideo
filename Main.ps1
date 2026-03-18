@@ -1,6 +1,6 @@
-. .\FileListing.ps1
-. .\FolderListing.ps1
-. .\SizeFilter.ps1
+. "$PSScriptRoot\Modules\FileListing.ps1"
+. "$PSScriptRoot\Modules\FolderListing.ps1"
+. "$PSScriptRoot\Modules\SizeFilter.ps1"
 
 <#
 .SYNOPSIS
