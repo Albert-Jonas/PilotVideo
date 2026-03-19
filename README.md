@@ -59,16 +59,8 @@ cd .\Path\To\Project\
 <h3>TestData mappa</h3>
 <p>A <code>TestData</code> a mappaszerkezetet tartalmazza, amit a tesztek használnak (ő a gyökér könyvtár). A struktúra (mappák, fájlok) a <code>PrepareTestData</code> függvény futtatásával állítható be a szerkesztések dátuma a tesztelt értékre.</p>
 
-<pre><code># Példa: tesztadatok előkészítése
-.\Test\PrepareTestData.ps1 -SetupMode Full
-</code></pre>
-
 <h3>Komponens tesztjei</h3>
 <p>A modulok tesztjei a <code>Test/</code> mappában találhatók. Egy teszt futtatása után a terminálban közvetlenül megjelennek az eredmények.</p>
-
-<pre><code># Példa: egy modul tesztje
-.\Test\MyComponent.Tests.ps1
-</code></pre>
 
 <h3>Összegzés</h3>
 <ul>
